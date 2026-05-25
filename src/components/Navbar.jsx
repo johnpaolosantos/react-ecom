@@ -4,7 +4,7 @@ export default function Navbar() {
     return (
         <nav className="navbar">
             <div className="navbar-container">
-                <Link to="/" className="navbar-brand">PapaoShop</Link>
+                <Link to="/" className="navbar-brand">PaoShop</Link>
                 <div className="navbar-links">
                     <Link to="/" className="navbar-link">Home</Link>
                     <Link to="/checkout" className="navbar-link">Checkout</Link>
